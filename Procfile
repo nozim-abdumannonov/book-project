@@ -1,1 +1,1 @@
-web: gunicorn library_project.wsgi
+web: gunicorn book_project.wsgi

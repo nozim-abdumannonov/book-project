@@ -74,7 +74,7 @@ MIDDLEWARE = [
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
-ROOT_URLCONF = 'library_project.urls'
+ROOT_URLCONF = 'book_project.urls'
 
 TEMPLATES = [
     {
